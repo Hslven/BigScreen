@@ -7,9 +7,13 @@
 
 
 
+![大屏](https://github.com/Hslven/BigScreen/blob/main/public/graph.png)
+
+![大屏](https://github.com/Hslven/BigScreen/blob/main/public/graphManagement.png)
+
 ### 如何运行
 
-请确保您的node版本 `Node.js v16.4.2``
+请确保您的node版本 `Node.js v16.4.2`
 
 在项目文件夹下，下载项目所需依赖
 
