@@ -1,0 +1,284 @@
+[
+  {
+    "id": "71e150b7-b259-4da9-96fa-fad93d258099",
+    "data": {
+      "bandWidth": 77,
+      "brief": "jiǎn jié de ； duǎn zàn de ； sù sòng yào diǎn",
+      "critical": "wēi jí de",
+      "notice": "zhù yì ； tōng zhī",
+      "propagate": "xuān chuán",
+      "conservative": ["bǎo shǒu de"],
+      "provoke": "tiǎo xìn"
+    },
+
+    "labels": {
+      "data": {
+        "negotiate": "tán pàn",
+        "intimidate": "wēi xié",
+        "sacrifice": "xī shēng",
+        "certify": "zhèng míng"
+      },
+      "markup": [
+        { "tagName": "rect", "selector": "labelBody" },
+        { "tagName": "text", "selector": "labelText" },
+        {
+          "data": {
+            "contaminate": "wū rǎn",
+            "recede": "tuì qù ； zhú jiàn jiǎn ruò",
+            "confidential": "jī mì de",
+            "truck": "kǎ chē",
+            "mortgage": ["dǐ yā dài kuǎn"],
+            "ceremony": "diǎn lǐ",
+            "excerpt": "zhāi lù",
+            "speculate": "tuī cè"
+          }
+        }
+      ],
+      "attrs": {
+        "labelText": {
+          "text": "0",
+          "data": {
+            "bandWidth": 645,
+            "superfluous": "duō yú de ； guò shèng de",
+            "voice": "biǎo dá ； fā yīn",
+            "summary": "zhāi yào",
+            "unfortunate": "yí hàn de ； kě xī de",
+            "quantity": "shù liàng ； dà liàng",
+            "profound": "shēn kè de ； zhī shí yuān bó de",
+            "carrying": "yùn shū de",
+            "retort": "fǎn bó ； fǎn jī"
+          },
+          "fill": "#000",
+          "textAnchor": "middle",
+          "textVerticalAnchor": "middle"
+        }
+      }
+    }
+  },
+  {
+    "shape": "Garcia",
+    "attrs": {
+      "line": {
+        "stroke": "#83fffe",
+        "targetMarker": null,
+        "connection": true,
+        "fill": "none"
+      },
+      "data": {
+        "glacier": "bīng chuān ； bīng hé",
+        "hesitate": "chóu chú ； yóu yù",
+        "norm": "guī fàn ； biāo zhǔn",
+        "horsepower": "mǎ lì",
+        "telescope": "wàng yuǎn jìng"
+      }
+    },
+    "id": "71e150b7-b259-4da9-96fa-fad93d258099",
+    "data": {
+      "bandWidth": 25,
+      "conversion": "zhuǎn biàn",
+      "representative": "dài biǎo ； dài lǐ",
+      "hedge": "fáng fàn",
+      "cradle": "yáo lán ； fā yuán dì",
+      "specification": "guī gé",
+      "scenario": "shì tài"
+    },
+    "labels": {
+      "data": {
+        "magnify": "fàng dà",
+        "parameter": "cān shù",
+        "identification": "biàn rèn ； jiàn dìng",
+        "divorce": "lí hūn"
+      },
+      "markup": [
+        { "tagName": "rect", "selector": "labelBody" },
+        { "tagName": "text", "selector": "labelText" }
+      ],
+      "attrs": {
+        "labelText": {
+          "text": "0",
+          "fill": "#000",
+          "textAnchor": "middle",
+          "textVerticalAnchor": "middle"
+        },
+        "labelBody": {
+          "ref": "labelText",
+          "refX": -8,
+          "refY": -5,
+          "refWidth": "100%",
+          "refHeight": "100%",
+          "refWidth2": 16,
+          "refHeight2": 10,
+          "stroke": "#000",
+          "fill": "#83fffe",
+          "strokeWidth": 1,
+          "rx": 5,
+          "ry": 5,
+          "event": "click:out",
+          "cursor": "pointer"
+        }
+      },
+      "position": {
+        "distance": 0.3,
+        "args": { "keepGradient": true, "ensureLegibility": true }
+      }
+    },
+    "vertices": [{ "x": 2500, "y": 300 }],
+    "source": { "cell": "d3f93af1-ff35-4d34-a347-359d1b42a98d", "port": "in" },
+    "target": { "cell": "64066e05-dd79-4fed-96cc-2f5c0cb3a63f", "port": "in" }
+  },
+  {
+    "shape": "Wilson",
+    "attrs": {
+      "line": {
+        "stroke": "#83fffe",
+        "targetMarker": null,
+        "connection": true,
+        "fill": "none"
+      },
+      "data": {
+        "last": "chí xù ； zuì hòu",
+        "inferior": "dī děng de ； bù xià",
+        "paintings": "huì huà zuò pǐn",
+        "portray": "miáo huì",
+        "dinosaur": "kǒng lóng"
+      }
+    },
+    "id": "71e150b7-b259-4da9-96fa-fad93d258099",
+    "data": {
+      "bandWidth": 274,
+      "senate": "cān yì yuàn",
+      "battery": "diàn chí",
+      "volatile": "bù wěn dìng de",
+      "brevity": "jiǎn duǎn",
+      "alternate": "jiāo tì de",
+      "grease": "yóu zhī",
+      "automatic": "zì dòng de",
+      "just": "jǐn jǐn ； gōng zhèng de",
+      "lavatory": "cè suǒ",
+      "drift": "piāo liú"
+    },
+    "labels": {
+      "data": {
+        "corner": "jiǎo luò",
+        "stem": "jīng ； zǔ zhǐ ； qǐ yuán yú",
+        "wine": "pú táo jiǔ",
+        "wardrobe": "yī chǔ"
+      },
+      "markup": [
+        { "tagName": "rect", "selector": "labelBody" },
+        { "tagName": "text", "selector": "labelText" }
+      ],
+      "attrs": {
+        "labelText": {
+          "text": "0",
+          "fill": "#000",
+          "textAnchor": "middle",
+          "textVerticalAnchor": "middle"
+        },
+        "labelBody": {
+          "ref": "labelText",
+          "refX": -8,
+          "refY": -5,
+          "refWidth": "100%",
+          "refHeight": "100%",
+          "refWidth2": 16,
+          "refHeight2": 10,
+          "stroke": "#000",
+          "fill": "#83fffe",
+          "strokeWidth": 1,
+          "rx": 5,
+          "ry": 5,
+          "event": "click:out",
+          "cursor": "pointer"
+        }
+      },
+      "position": {
+        "distance": 0.3,
+        "args": { "keepGradient": true, "ensureLegibility": true }
+      }
+    },
+    "vertices": [{ "x": 2500, "y": 300 }],
+    "source": { "cell": "d3f93af1-ff35-4d34-a347-359d1b42a98d", "port": "in" },
+    "target": { "cell": "64066e05-dd79-4fed-96cc-2f5c0cb3a63f", "port": "in" }
+  },
+  {
+    "shape": "Thomas",
+    "attrs": {
+      "line": {
+        "stroke": "#83fffe",
+        "targetMarker": null,
+        "connection": true,
+        "fill": "none"
+      },
+      "data": {
+        "thirst": "kě wàng",
+        "exterior": "wài mào",
+        "sink": "shuǐ cáo",
+        "wrench": "bān shǒu ； tòng kǔ",
+        "gamble": "dǔ bó",
+        "intrude": "chuǎng rù",
+        "leak": "xiè lòu",
+        "passion": "jī qíng"
+      }
+    },
+    "id": "71e150b7-b259-4da9-96fa-fad93d258099",
+    "data": {
+      "bandWidth": 656,
+      "formidable": "kě pà de",
+      "remains": "yí jì ； yí tǐ",
+      "affair": "shì qíng ； shì wù",
+      "weird": "qí yì de ； gǔ guài de",
+      "proximate": "zhí jiē de ； zuì jiē jìn de",
+      "inertia": "guàn xìng",
+      "protein": "dàn bái zhì",
+      "soap": "féi zào",
+      "parallel": "xiāng shì de ； píng xíng de",
+      "indulge": "mǎn zú",
+      "illuminate": "chǎn shì ； shuō míng ； zhào liàng"
+    },
+    "labels": {
+      "data": {
+        "scale": "tiān píng ； chǐ dù",
+        "symphony": "jiāo xiǎng yuè",
+        "soak": "jìn pào",
+        "surge": "xiōng yǒng",
+        "crystal": "shuǐ jīng"
+      },
+      "markup": [
+        { "tagName": "rect", "selector": "labelBody" },
+        { "tagName": "text", "selector": "labelText" }
+      ],
+      "attrs": {
+        "labelText": {
+          "text": "0",
+          "fill": "#000",
+          "textAnchor": "middle",
+          "textVerticalAnchor": "middle"
+        },
+        "labelBody": {
+          "ref": "labelText",
+          "refX": -8,
+          "refY": -5,
+          "refWidth": "100%",
+          "refHeight": "100%",
+          "refWidth2": 16,
+          "refHeight2": 10,
+          "stroke": "#000",
+          "fill": "#83fffe",
+          "strokeWidth": 1,
+          "rx": 5,
+          "ry": 5,
+          "event": "click:out",
+          "cursor": "pointer"
+        }
+      },
+      "position": {
+        "distance": 0.3,
+        "args": { "keepGradient": true, "ensureLegibility": true }
+      }
+    },
+    "vertices": [{ "x": 2500, "y": 300 }],
+    "source": { "cell": "d3f93af1-ff35-4d34-a347-359d1b42a98d", "port": "in" },
+    "target": { "cell": "64066e05-dd79-4fed-96cc-2f5c0cb3a63f", "port": "in" }
+  }
+]

@@ -1,0 +1,223 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块10",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/计算模块1",
+            "default": 38,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块11",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块12",
+            "default": 19,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/SAS存储模块1",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/SAS存储模块2",
+            "default": 26,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块5",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块6",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块7",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块8",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/管理模块11",
+            "default": 90,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块1",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/SAS存储模块3",
+            "default": 25,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块2",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块3",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/SAS存储模块1",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/管理模块12",
+            "default": 88,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块4",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/SAS存储模块2",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块9",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/计算模块8",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块9",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/计算模块8",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块9",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/计算模块8",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块9",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/计算模块8",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块9",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/计算模块8",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区B/计算模块9",
+            "default": 45,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        },
+        {
+            "hostName": "湛江可信资源池3/硬件分区A/计算模块8",
+            "default": 40,
+            "unrecoverable": 0,
+            "danger": 0,
+            "error": 0
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+	"code": 200,
+	"error": "",
+	"message": "",
+	"data": {
+		"id": "ff7a92fec6b64c0c9d042d13476e10ef",
+		"createBy": "10112",
+		"createDate": "2022-10-18 11:45:23",
+		"updateBy": "10112",
+		"updateDate": "2022-11-16 15:26:57",
+		"remarks": null,
+		"orders": null,
+		"isNewRecord": false,	
+		"name": "主机名称配置",
+		"type": "action_script",
+		"version": "1.0.9",
+		"lang": "python",
+		"code": "# version: Python3\n###################################################################################################\n#调试打印变量：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n#    var = \"test\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n#\t raise Exception(var)\n#result字典说明：\n#\t result[\"rc\"]: 0或1，0表示指令执行成功，1表示指令执行失败\n#\t result[\"failed\"]: 脚本执行状态(对应用status)，True或False,设置该值可以定义脚本成功或失败\n# \t result[\"stdout\"]: 指令执行成功时的输出数据(对应用originalMsg)\n#    result[\"stderr\"]：指令执行出错时的描述信息\n#    result[\"msg\"]：用户自定义的错误描述信息(脚本失败时对应detail)，如巡检CPU指标异常\n###################################################################################################\n# please edit your code here:\ndef run(result):\n    self._task.args['_raw_params'] = 'hostnamectl set-hostname inops'\n    result = self.execute_cmd(task_vars)\n    return result\ndef main(self, task_vars):\n    result = {\n        \"rc\": \"0\",\n        \"stdout\": \"主机名称配置成功\"\n    }\n    return result",
+		"base64Code": "IyB2ZXJzaW9uOiBQeXRob24zCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoj6LCD6K+V5omT5Y2w5Y+Y6YeP77yaCQkJCQkJCQkJCQkJCQkJCQkJCQojICAgIHZhciA9ICJ0ZXN0IgkJCQkJCQkJCQkJCQkJCQkJCQkKIwkgcmFpc2UgRXhjZXB0aW9uKHZhcikKI3Jlc3VsdOWtl+WFuOivtOaYju+8mgojCSByZXN1bHRbInJjIl06IDDmiJYx77yMMOihqOekuuaMh+S7pOaJp+ihjOaIkOWKn++8jDHooajnpLrmjIfku6TmiafooYzlpLHotKUKIwkgcmVzdWx0WyJmYWlsZWQiXTog6ISa5pys5omn6KGM54q25oCBKOWvueW6lOeUqHN0YXR1cynvvIxUcnVl5oiWRmFsc2Us6K6+572u6K+l5YC85Y+v5Lul5a6a5LmJ6ISa5pys5oiQ5Yqf5oiW5aSx6LSlCiMgCSByZXN1bHRbInN0ZG91dCJdOiDmjIfku6TmiafooYzmiJDlip/ml7bnmoTovpPlh7rmlbDmja4o5a+55bqU55Sob3JpZ2luYWxNc2cpCiMgICAgcmVzdWx0WyJzdGRlcnIiXe+8muaMh+S7pOaJp+ihjOWHuumUmeaXtueahOaPj+i/sOS/oeaBrwojICAgIHJlc3VsdFsibXNnIl3vvJrnlKjmiLfoh6rlrprkuYnnmoTplJnor6/mj4/ov7Dkv6Hmga8o6ISa5pys5aSx6LSl5pe25a+55bqUZGV0YWlsKe+8jOWmguW3oeajgENQVeaMh+agh+W8guW4uAojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBwbGVhc2UgZWRpdCB5b3VyIGNvZGUgaGVyZToKZGVmIHJ1bihyZXN1bHQpOgogICAgc2VsZi5fdGFzay5hcmdzWydfcmF3X3BhcmFtcyddID0gJ2hvc3RuYW1lY3RsIHNldC1ob3N0bmFtZSBpbm9wcycKICAgIHJlc3VsdCA9IHNlbGYuZXhlY3V0ZV9jbWQodGFza192YXJzKQogICAgcmV0dXJuIHJlc3VsdApkZWYgbWFpbihzZWxmLCB0YXNrX3ZhcnMpOgogICAgcmVzdWx0ID0gewogICAgICAgICJyYyI6ICIwIiwKICAgICAgICAic3Rkb3V0IjogIuS4u+acuuWQjeensOmFjee9ruaIkOWKnyIKICAgIH0KICAgIHJldHVybiByZXN1bHQ=",
+		"label": null,
+		"authScope": null,
+		"args": null,
+		"params": [
+			{
+				"id": "75a9adf2d0e041f180bc99a44058bb7f",
+				"createBy": "10112",
+				"createDate": "2022-11-16 15:26:57",
+				"updateBy": "10112",
+				"updateDate": "2022-11-16 15:26:57",
+				"remarks": null,
+				"orders": null,
+				"isNewRecord": false,
+				"name": "hostname",
+				"val": "hostname {{hostname}}",
+				"mode": null,
+				"description": "主机名称配置",
+				"script": null
+			}
+		],
+		"description": null,
+		"beginDate": null,
+		"endDate": null,
+		"user": null,
+		"authUser": null,
+		"editable": null
+	}
+}
+
+

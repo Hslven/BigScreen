@@ -1,0 +1,6673 @@
+{
+	"status": "success",
+	"message": "",
+	"data": {
+		"list": [{
+			"_id": "62426691420693003a695aac",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "APP名称",
+				"value": ["APP-HNGZgxSMFm003BZX-08AZX012"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "APP-HNGZgxSMFm003BZX-08AZX012",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "APP名称",
+					"value": ["APP-HNGZgxSMFm003BZX-08AZX012"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "APP-HNGZgxSMFm003BZX-08AZX012",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "APP名称",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "文件名",
+				"value": ["app速查结果",
+				"app速查结果"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "app速查结果",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "文件名",
+					"value": ["app速查结果",
+					"app速查结果"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "app速查结果",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "文件名",
+						"value": ["app速查结果"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "app速查结果",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "APP各层面数据查询",
+			"description": "查询单个APP计算层面、架构层面、信息层面、存储层面、网络层面等数据",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "18420488e24611ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "18429488e24611ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "184322fde24611ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "184459c4e24611ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "1844e6a5e24611ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "18455e19e24611ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "1845e870e24611ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6243d01be58bb500651aceef",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "邮箱",
+				"value": [["13112262452@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["13112262452@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "邮箱",
+					"value": [["13112262452@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["13112262452@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "邮箱",
+						"value": [["13112262452@139.com"]],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": ["13112262452@139.com"],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否查询租户信息",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否查询租户信息",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否查询租户信息",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "虚拟机-AZ全量数据",
+			"description": "获取CMDB“虚拟机-硬件服务器-HA-AZ”的全量数据，通过邮件下发给用户",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "18470e1ce24611ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "1847be3ae24611ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "1848494ae24611ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "1848d6b3e24611ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "1849625ee24611ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "1849fa0fe24611ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "184a939ce24611ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "62563b66b0ac16004f73e588",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "邮箱",
+				"value": [["13112262452@139.com",
+				"14715669795@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["13112262452@139.com",
+					"14715669795@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "邮箱",
+					"value": [["13112262452@139.com",
+					"14715669795@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["13112262452@139.com",
+						"14715669795@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "邮箱",
+						"value": [["13112262452@139.com",
+						"14715669795@139.com"]],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": ["13112262452@139.com",
+							"14715669795@139.com"],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "分布式存储池容量稽查",
+			"description": "通过查询路径“分布式存储池-LUN”，计算各存储池下LUN容量总和",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "18535925e24611ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "1853e22ae24611ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "1854770fe24611ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "18550729e24611ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "18559827e24611ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "18564d84e24611ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "1856dbfee24611ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "62aad7f0be25f500483db27c",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "消息大标题",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "消息大标题",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "消息大标题",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "卡片标题",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "卡片标题",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "卡片标题",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "消息内容",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "消息内容",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "消息内容",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "list_string",
+				"tag": "telephone",
+				"name": "手机号",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": [],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "telephone",
+					"name": "手机号",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": [],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "telephone",
+						"name": "手机号",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": [],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "移动办公行业消息下发",
+			"description": "通过移动办公行业消息，为多用户下发告警消息、结果通知消息等内容",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "af6fd370ed4311ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "af6ff4c6ed4311ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "af701247ed4311ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "af702cd4ed4311ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "af7045b1ed4311ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "af705d95ed4311ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "af7077e5ed4311ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6344e8641adee1003b8e953a",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "分布式存储池名称",
+				"value": ["NFV-DSP-HNGZ-03A-HW-01-TRU-02"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "NFV-DSP-HNGZ-03A-HW-01-TRU-02",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "分布式存储池名称",
+					"value": ["NFV-DSP-HNGZ-03A-HW-01-TRU-02"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "NFV-DSP-HNGZ-03A-HW-01-TRU-02",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "分布式存储池名称",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						},
+						"ports": [{
+							"type": "string",
+							"tag": "",
+							"name": "分布式存储池名称",
+							"value": [],
+							"group": "out",
+							"connected": false,
+							"args": {
+								"x": 250,
+								"y": 33
+							},
+							"nodeType": "param",
+							"source": "",
+							"index": 0,
+							"options": {
+								"default": "",
+								"enumeration": [],
+								"scope": [],
+								"regular": "",
+								"header": null,
+								"sheet": false
+							},
+							"attrs": {
+								"text": {
+									"text": "string"
+								}
+							}
+						}]
+					}]
+				}]
+			},
+			{
+				"type": "int",
+				"tag": "",
+				"name": "规划预警百分比(%)",
+				"value": ["95"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "95",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "int"
+					}
+				},
+				"ports": [{
+					"type": "int",
+					"tag": "",
+					"name": "规划预警百分比(%)",
+					"value": ["95"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "95",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "int"
+						}
+					},
+					"ports": [{
+						"type": "int",
+						"tag": "",
+						"name": "规划预警百分比(%)",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "int"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "int",
+				"tag": "",
+				"name": "数据时长(天)",
+				"value": ["30"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "30",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "int"
+					}
+				},
+				"ports": [{
+					"type": "int",
+					"tag": "",
+					"name": "数据时长(天)",
+					"value": ["30"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "30",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "int"
+						}
+					},
+					"ports": [{
+						"type": "int",
+						"tag": "",
+						"name": "数据时长(天)",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "int"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "int",
+				"tag": "",
+				"name": "预测时长(天)",
+				"value": ["3",
+				"3"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "3",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "int"
+					}
+				},
+				"ports": [{
+					"type": "int",
+					"tag": "",
+					"name": "预测时长(天)",
+					"value": ["3",
+					"3"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "3",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "int"
+						}
+					},
+					"ports": [{
+						"type": "int",
+						"tag": "",
+						"name": "预测时长(天)",
+						"value": ["3"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "3",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "int"
+							}
+						},
+						"ports": [{
+							"type": "int",
+							"tag": "",
+							"name": "预测时长(天)",
+							"value": [],
+							"group": "out",
+							"connected": false,
+							"args": {
+								"x": 250,
+								"y": 33
+							},
+							"nodeType": "param",
+							"source": "",
+							"index": 0,
+							"options": {
+								"default": "",
+								"enumeration": [],
+								"scope": [],
+								"regular": "",
+								"header": null,
+								"sheet": false
+							},
+							"attrs": {
+								"text": {
+									"text": "int"
+								}
+							}
+						}]
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "网元名称",
+				"value": ["海南VoLTE AS vCG1HW"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "海南VoLTE AS vCG1HW",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "网元名称",
+					"value": ["海南VoLTE AS vCG1HW"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "海南VoLTE AS vCG1HW",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "网元名称",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "存储资源评估",
+			"description": "包括存储业务占比评估、存储红线评估、业务实占存储预测",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "f08aefe0491711edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "f08b1f97491711edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "f08e56f7491711edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "f08e7b99491711edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "f08e97cf491711edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "f08eb00f491711edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "f08ec8cf491711edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6348d2a124fdfe003b412f28",
+			"params": [],
+			"name": "稽核模组",
+			"description": "稽核模组",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "516c10ce4b6d11edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "516c30584b6d11edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "516c56d04b6d11edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "516c6f124b6d11edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "516c87294b6d11edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "516c9fcd4b6d11edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "516cb9674b6d11edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "63526ce31adee1003b8ebec7",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "邮箱",
+				"value": [["14715669795@139.com",
+				"tanhuopeng@139.com",
+				"17820288535@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["14715669795@139.com",
+					"tanhuopeng@139.com",
+					"17820288535@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "邮箱",
+					"value": [["14715669795@139.com",
+					"tanhuopeng@139.com",
+					"17820288535@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["14715669795@139.com",
+						"tanhuopeng@139.com",
+						"17820288535@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "邮箱",
+						"value": [["14715669795@139.com",
+						"tanhuopeng@139.com",
+						"17820288535@139.com"]],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": ["14715669795@139.com",
+							"tanhuopeng@139.com",
+							"17820288535@139.com"],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "备份虚拟机",
+			"description": "备份虚拟机数据，备份内容包含：虚拟机名称、备注、所属VNF、所属管理系统",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "8c628c6d512611edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "8c62b105512611edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "8c62f60e512611edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "8c630dba512611edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "8c63221c512611edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "8c633788512611edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "8c634eb2512611edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "63db80dd4568db0065612ae6",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "模板任务名",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "模板任务名",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "模板任务名",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "数据汇聚字段",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "数据汇聚字段",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "数据汇聚字段",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "时间粒度",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "时间粒度",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "时间粒度",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "开始时间",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "开始时间",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "开始时间",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "结束时间",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "结束时间",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "结束时间",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "异步触发指标中台模板任务",
+			"description": "异步触发指标中台模板任务",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "151e537fa2db11ed8da4005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "1521e040a2db11ed8da4005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "15220324a2db11ed8da4005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "152220a1a2db11ed8da4005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "15226938a2db11ed8da4005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "15228771a2db11ed8da4005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "1522a76fa2db11ed8da4005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6243d1dd962fae003b514088",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "收件人",
+				"value": [["13802882314@139.com",
+				"13112262452@139.com",
+				"14715669795@139.com",
+				"13640207541@139.com",
+				"19575429039@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["13802882314@139.com",
+					"13112262452@139.com",
+					"14715669795@139.com",
+					"13640207541@139.com",
+					"19575429039@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "收件人",
+					"value": [["13802882314@139.com",
+					"13112262452@139.com",
+					"14715669795@139.com",
+					"13640207541@139.com",
+					"19575429039@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["13802882314@139.com",
+						"13112262452@139.com",
+						"14715669795@139.com",
+						"13640207541@139.com",
+						"19575429039@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "收件人",
+						"value": [["17606683601@139.com",
+						"13802882314@139.com",
+						"13112262452@139.com"]],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": ["17606683601@139.com",
+							"13802882314@139.com",
+							"13112262452@139.com"],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "HA两天内CPU增降幅情况",
+			"description": "对比CMDB两天内HA的CPU增降幅情况",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "185e91f9e24611ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "185f07f6e24611ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "185f7fe2e24611ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "185ff6a0e24611ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "18607e9fe24611ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "1860ee4be24611ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "18616694e24611ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6243fc48e58bb500651acf3e",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "邮箱",
+				"value": [["tanhuopeng@139.com",
+				"15915789867@139.com",
+				"14715669795@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["tanhuopeng@139.com",
+					"15915789867@139.com",
+					"14715669795@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "邮箱",
+					"value": [["tanhuopeng@139.com",
+					"15915789867@139.com",
+					"14715669795@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["tanhuopeng@139.com",
+						"15915789867@139.com",
+						"14715669795@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					}
+				}]
+			}],
+			"name": "联合研发各模型合规性检查",
+			"description": "对联合研发各模型的一二期数据进行合规性检查，将检查结果以邮件的形式下发出去",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "1861e041e24611ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "186254f6e24611ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "1862c733e24611ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "186362d4e24611ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "1863d9e6e24611ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "18647ebae24611ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "18651f92e24611ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6244143a586ad4003c1542d2",
+			"params": [{
+				"type": "string",
+				"tag": "ip",
+				"name": "IP",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "192.168.11.131",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "ip",
+					"name": "IP",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					}
+				}]
+			}],
+			"name": "IP模糊查询",
+			"description": "通过CMDB，查询单个IP所关联的虚拟机、子网等信息",
+			"author": "admin",
+			"release": false,
+			"permissions": [{
+				"permission_id": "1865fceae24611ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "18669af3e24611ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "18677245e24611ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "1867f8e7e24611ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "1868a896e24611ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "186984a9e24611ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "186a021ee24611ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "630474d49e1bff005763c6cd",
+			"params": [{
+				"type": "list_string",
+				"tag": "",
+				"name": "工程期数",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": [],
+					"enumeration": ["一期",
+					"二期",
+					"一期扩容"],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "",
+					"name": "工程期数",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": [],
+						"enumeration": ["一期",
+						"二期",
+						"一期扩容"],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "",
+						"name": "工程期数",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": [],
+							"enumeration": ["一期",
+							"二期",
+							"一期扩容"],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "正则匹配HA名称",
+				"value": ["^NFV-RP-HNGZ-",
+				"^NFV-RP-HNGZ-",
+				"^NFV-RP-HNGZ-"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "^NFV-RP-HNGZ-",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "正则匹配HA名称",
+					"value": ["^NFV-RP-HNGZ-",
+					"^NFV-RP-HNGZ-",
+					"^NFV-RP-HNGZ-"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "^NFV-RP-HNGZ-",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "正则匹配HA名称",
+						"value": ["^NFV-RP-HNGZ-",
+						"^NFV-RP-HNGZ-"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "^NFV-RP-HNGZ-",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						},
+						"ports": [{
+							"type": "string",
+							"tag": "",
+							"name": "正则匹配HA名称",
+							"value": ["^NFV-RP-HNGZ-"],
+							"group": "out",
+							"connected": true,
+							"args": {
+								"x": 250,
+								"y": 33
+							},
+							"nodeType": "param",
+							"source": "value",
+							"index": 0,
+							"options": {
+								"default": "^NFV-RP-HNGZ-",
+								"enumeration": [],
+								"scope": [],
+								"regular": "",
+								"header": null,
+								"sheet": false
+							},
+							"attrs": {
+								"text": {
+									"text": "string"
+								}
+							}
+						}]
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "正则匹配计算服务器名称",
+				"value": ["-SRV-"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "-SRV-",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "正则匹配计算服务器名称",
+					"value": ["-SRV-"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "-SRV-",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					}
+				}]
+			},
+			{
+				"type": "list_string",
+				"tag": "",
+				"name": "计算服务器关联检查项",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": [],
+					"enumeration": ["计算节点-硬件服务器关联HA",
+					"硬件服务器关联硬件分区",
+					"检查硬件服务器关联机架",
+					"检查硬件服务器上联TOR"],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "",
+					"name": "计算服务器关联检查项",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": [],
+						"enumeration": ["计算节点-硬件服务器关联HA",
+						"硬件服务器关联硬件分区",
+						"检查硬件服务器关联机架",
+						"检查硬件服务器上联TOR"],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					}
+				}]
+			},
+			{
+				"type": "list_string",
+				"tag": "",
+				"name": "计算服务器数据规范检查",
+				"value": [["检查可分配VRam",
+				"检查可分配VCpu",
+				"检查硬件服务器角色",
+				"检查所属主机组、部署管理系统",
+				"检查服务器BMC地址",
+				"检查服务器管理网地址"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["检查可分配VRam",
+					"检查可分配VCpu",
+					"检查硬件服务器角色",
+					"检查所属主机组、部署管理系统",
+					"检查服务器BMC地址",
+					"检查服务器管理网地址"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "",
+					"name": "计算服务器数据规范检查",
+					"value": [["检查可分配VRam",
+					"检查可分配VCpu",
+					"检查硬件服务器角色",
+					"检查所属主机组、部署管理系统",
+					"检查服务器BMC地址",
+					"检查服务器管理网地址"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["检查可分配VRam",
+						"检查可分配VCpu",
+						"检查硬件服务器角色",
+						"检查所属主机组、部署管理系统",
+						"检查服务器BMC地址",
+						"检查服务器管理网地址"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					}
+				}]
+			},
+			{
+				"type": "list_string",
+				"tag": "",
+				"name": "HA关联检查项",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": [],
+					"enumeration": ["检查HA关联AZ"],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "",
+					"name": "HA关联检查项",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": [],
+						"enumeration": ["检查HA关联AZ"],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					}
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "正则匹配存储服务器名称",
+				"value": ["-DBS-",
+				"-DBS-"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "-DBS-",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "正则匹配存储服务器名称",
+					"value": ["-DBS-",
+					"-DBS-"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "-DBS-",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "正则匹配存储服务器名称",
+						"value": ["-DBS-"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "-DBS-",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "list_string",
+				"tag": "",
+				"name": "存储服务器数据规范检查项",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": [],
+					"enumeration": ["检查存储务器关联分布式存储池",
+					"检查存储服务器关联硬件分区",
+					"检查存储服务器关联机架",
+					"检查存储服务器上联TOR"],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "",
+					"name": "存储服务器数据规范检查项",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": [],
+						"enumeration": ["检查存储务器关联分布式存储池",
+						"检查存储服务器关联硬件分区",
+						"检查存储服务器关联机架",
+						"检查存储服务器上联TOR"],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					}
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "正则匹配网元名称",
+				"value": ["[\\u4e00-\\u9fa5]"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "[\\u4e00-\\u9fa5]",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "正则匹配网元名称",
+					"value": ["[\\u4e00-\\u9fa5]"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "[\\u4e00-\\u9fa5]",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					}
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "正则检查路由器名称",
+				"value": [],
+				"group": "in",
+				"connected": false,
+				"args": {
+					"x": "",
+					"y": ""
+				},
+				"nodeType": "mod",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "^NFV-D-HNGZ-|^GDGZ-",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				}
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "正则检查计算服务器名称",
+				"value": ["-SRV-",
+				"-SRV-"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "-SRV-",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "正则检查计算服务器名称",
+					"value": ["-SRV-",
+					"-SRV-"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "-SRV-",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "正则匹配计算服务器名称",
+						"value": ["-SRV-"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "-SRV-",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "正则检查VNF名称",
+				"value": ["^APP-HNGZ"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "^APP-HNGZ",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "正则检查VNF名称",
+					"value": ["^APP-HNGZ"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "^APP-HNGZ",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					}
+				}]
+			}],
+			"name": "外部-联合研发数据质量稽查",
+			"description": "提供给外部使用的、可配置化的数据质量检查模组",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "78002e6d22ad11edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "7800574d22ad11edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "780078fc22ad11edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "78009eb122ad11edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "7800c03122ad11edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "7800e18f22ad11edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "780102de22ad11edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "638815bb9d3b3900644d9a72",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "path参数",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "path参数",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "path参数",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "list_string",
+				"tag": "email",
+				"name": "收件人",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": [],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "收件人",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": [],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "收件人",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": [],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "CMDB路径数据导出",
+			"description": "通过给定CMDB path路径参数，导出所需数据",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "777cc106712211ed8da4005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "7782c36f712211ed8da4005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "77835259712211ed8da4005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "778377b2712211ed8da4005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "778397c1712211ed8da4005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "7783b62b712211ed8da4005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "7783d2a9712211ed8da4005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "639850229d656d005b903383",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "模型ID",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "模型ID",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "模型ID",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "json参数",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "json参数",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "json参数",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "list_string",
+				"tag": "email",
+				"name": "收件人",
+				"value": [["14715669795@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["14715669795@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "收件人",
+					"value": [["14715669795@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["14715669795@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "收件人",
+						"value": [["14715669795@139.com"]],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": ["14715669795@139.com"],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "CMDB模型实例数据文件生成",
+			"description": "通过json参数配置所需的模型数据字段，调用CMDB模型实例导出结果，生成模型实例文件",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "acff7e327ace11ed8da4005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "ad034ba57ace11ed8da4005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "ad04e95d7ace11ed8da4005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "ad0506087ace11ed8da4005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "ad0520ab7ace11ed8da4005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "ad0540a97ace11ed8da4005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "ad055b4e7ace11ed8da4005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6264c9de23bd150042621919",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "故障主机名",
+				"value": ["NFV-D-HNGZ-02A-2401-AB07-S-SRV-33",
+				"NFV-D-HNGZ-02A-2401-AB07-S-SRV-33"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "NFV-D-HNGZ-02A-2401-AB07-S-SRV-33",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "故障主机名",
+					"value": ["NFV-D-HNGZ-02A-2401-AB07-S-SRV-33",
+					"NFV-D-HNGZ-02A-2401-AB07-S-SRV-33"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "NFV-D-HNGZ-02A-2401-AB07-S-SRV-33",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "故障主机名",
+						"value": ["NFV-D-HNGZ-02A-2401-AB07-S-SRV-33"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "NFV-D-HNGZ-02A-2401-AB07-S-SRV-33",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "文件名",
+				"value": ["故障主机速查结果",
+				"故障主机速查结果"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "故障主机速查结果",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "文件名",
+					"value": ["故障主机速查结果",
+					"故障主机速查结果"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "故障主机速查结果",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "文件名",
+						"value": ["故障主机速查结果"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "故障主机速查结果",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "故障主机速查",
+			"description": "以单个主机名为输入，查询与该主机关联的信息层面、计算层面、架构层面、存储层面、网络层面等信息.",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "186ec92ae24611ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "186f5648e24611ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "186fe969e24611ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "18706876e24611ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "1870dd95e24611ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "187164a4e24611ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "1871e4c2e24611ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "62665e76814d2e0056f7d588",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "脚本名",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "脚本名",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "脚本名",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "InOps脚本巡检下发",
+			"description": "通过InOps下发巡检脚本，对指定机器进行巡检操作",
+			"author": "admin",
+			"release": false,
+			"permissions": [{
+				"permission_id": "187260b9e24611ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "1872cf3de24611ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "18733c78e24611ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "1873b431e24611ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "187425fae24611ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "1874b21ae24611ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "18752d4ce24611ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "62ac29d53b989e003b1a8463",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "消息类型",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "消息类型",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "消息类型",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "消息内容",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "消息内容",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "消息内容",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "list_string",
+				"tag": "",
+				"name": "@通知",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": [],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "",
+					"name": "@通知",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": [],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "",
+						"name": "@通知",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": [],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "群ID",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "群ID",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "群ID",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "移动办公机器人消息下发",
+			"description": "通过指定群ID，触发指定群的移动办公小助手发送消息，支持text类型消息（纯文本消息）、template类型消息（文本消息+@通知）：默认为@全体成员\n",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "1587557cee0d11ecbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "15877287ee0d11ecbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "15878cbfee0d11ecbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "1587a3ffee0d11ecbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "1587baa2ee0d11ecbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "15880176ee0d11ecbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "1588199fee0d11ecbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "63106908e8540b0042504b31",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "邮箱",
+				"value": [["14715669795@139.com",
+				"13112262452@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["14715669795@139.com",
+					"13112262452@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "邮箱",
+					"value": [["14715669795@139.com",
+					"13112262452@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["14715669795@139.com",
+						"13112262452@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "邮箱",
+						"value": [["14715669795@139.com",
+						"13112262452@139.com"]],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": ["14715669795@139.com",
+							"13112262452@139.com"],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "HA下虚拟机异常变化监控",
+			"description": "监控HA下虚拟机的异常增减、以及虚拟机CPU变化情况",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "7c7246ca29cd11edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "7c79cc9d29cd11edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "7c7a853929cd11edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "7c7aa4d829cd11edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "7c7ac68f29cd11edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "7c7d4d7429cd11edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "7c7d6e7b29cd11edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6316fb8820fd12004ff61d21",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "收件人",
+				"value": [["13112262452@139.com",
+				"14715669795@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["13112262452@139.com",
+					"14715669795@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "收件人",
+					"value": [["13112262452@139.com",
+					"14715669795@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["13112262452@139.com",
+						"14715669795@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					}
+				}]
+			}],
+			"name": "服务器节点异常变化监控",
+			"description": "对两天内的HA下的计算服务器节点数、分布式存储池下的存储服务器节点数的变化进行统计",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "547484f62db811edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "5474b5c52db811edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "5474d16a2db811edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "547520292db811edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "547539952db811edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "547556692db811edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "54756eb52db811edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6317116469fde8003ad0c48f",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "邮箱",
+				"value": [["14715669795@139.com",
+				"13112262452@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["14715669795@139.com",
+					"13112262452@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "list_string"
+					}
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "邮箱",
+					"value": [["14715669795@139.com",
+					"13112262452@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["14715669795@139.com",
+						"13112262452@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "list_string"
+						}
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "邮箱",
+						"value": [["14715669795@139.com",
+						"13112262452@139.com"]],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": ["14715669795@139.com",
+							"13112262452@139.com"],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "list_string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "boolean",
+				"tag": "",
+				"name": "是否触发chatops文件上传",
+				"value": [false,
+				false],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": false,
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "boolean"
+					}
+				},
+				"ports": [{
+					"type": "boolean",
+					"tag": "",
+					"name": "是否触发chatops文件上传",
+					"value": [false,
+					false],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": false,
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "boolean"
+						}
+					},
+					"ports": [{
+						"type": "boolean",
+						"tag": "",
+						"name": "是否触发chatops文件上传",
+						"value": [false],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": false,
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "boolean"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "全网元资源信息模组",
+			"description": "获取全网元资源数据，包括所属HA、VIM租户、虚拟机资源池、网络云大区、APP、占用VCPU、占用内存(GB)、占用存储",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "5c093f462dc511edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "5c09b2fb2dc511edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "5c09cfc12dc511edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "5c09eca22dc511edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "5c0a07e72dc511edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "5c0a63eb2dc511edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "5c0a7ff32dc511edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6323ec06d6b0160048a05da5",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "网元名",
+				"value": ["广东UDM4UUDR1HW"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "广东UDM4UUDR1HW",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "网元名",
+					"value": ["广东UDM4UUDR1HW"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "广东UDM4UUDR1HW",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "网元名",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": ["all",
+							"5G消息中心-(PSBC3)"],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "int",
+				"tag": "",
+				"name": "统计时长",
+				"value": ["2",
+				"2"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "2",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "int"
+					}
+				},
+				"ports": [{
+					"type": "int",
+					"tag": "",
+					"name": "统计时长",
+					"value": ["2",
+					"2"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "2",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "int"
+						}
+					},
+					"ports": [{
+						"type": "int",
+						"tag": "",
+						"name": "统计时长",
+						"value": ["2"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "2",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "int"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "业务网元流量统计模组",
+			"description": "统计业务网元在指定时段内的网络出入流量情况",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "b8943842356e11edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "b8945401356e11edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "b8946a52356e11edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "b8948205356e11edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "b8949727356e11edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "b894b459356e11edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "b894f724356e11edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "632ac03824fdfe003b40aeac",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "设备名称",
+				"value": ["GDGZ-PC-CMNET-RT06-HWNE40EX16A"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "GDGZ-PC-CMNET-RT06-HWNE40EX16A",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "设备名称",
+					"value": ["GDGZ-PC-CMNET-RT06-HWNE40EX16A"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "GDGZ-PC-CMNET-RT06-HWNE40EX16A",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "设备名称",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "string",
+				"tag": "",
+				"name": "端口名称",
+				"value": ["GigabitEthernet0/0/0"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "GigabitEthernet0/0/0",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "端口名称",
+					"value": ["GigabitEthernet0/0/0"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "GigabitEthernet0/0/0",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "端口名称",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "int",
+				"tag": "",
+				"name": "数据时长",
+				"value": ["-1"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "-1",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "int"
+					}
+				},
+				"ports": [{
+					"type": "int",
+					"tag": "",
+					"name": "数据时长",
+					"value": ["-1"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "-1",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "int"
+						}
+					},
+					"ports": [{
+						"type": "int",
+						"tag": "",
+						"name": "数据时长",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "int"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "int",
+				"tag": "",
+				"name": "预测时长",
+				"value": ["6"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "6",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "int"
+					}
+				},
+				"ports": [{
+					"type": "int",
+					"tag": "",
+					"name": "预测时长",
+					"value": ["6"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "6",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "int"
+						}
+					},
+					"ports": [{
+						"type": "int",
+						"tag": "",
+						"name": "预测时长",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "int"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "设备端口收发流量预测",
+			"description": "预测输出未来1小时内10分钟粒度的流量值。网络云网络链路堵塞问题存在影响范围大、解决过程被动救火等难题，AI预测流量可帮助提前调整带宽管控策略（业务降级、限速、迁移）、制定带宽扩容策略（如启用备用机），提前规避堵塞，优化带宽规划值；如果基于预测值发现网络波动，可辅助识别故障。",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "b939661d398011edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "b9398307398011edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "b9399dad398011edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "b939b7a4398011edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "b939d54e398011edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "b939ee76398011edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "b93a0a6e398011edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6344e73a20fd12004ff6fc7a",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "HA名称",
+				"value": ["NFV-HA-HNGZ-08A-ZX-01-SVIC01"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "NFV-HA-HNGZ-08A-ZX-01-SVIC01",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "HA名称",
+					"value": ["NFV-HA-HNGZ-08A-ZX-01-SVIC01"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "NFV-HA-HNGZ-08A-ZX-01-SVIC01",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "HA名称",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			},
+			{
+				"type": "int",
+				"tag": "",
+				"name": "规划预警百分比",
+				"value": [],
+				"group": "out",
+				"connected": false,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "",
+				"index": 0,
+				"options": {
+					"default": "",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "int"
+					}
+				},
+				"ports": [{
+					"type": "int",
+					"tag": "",
+					"name": "规划预警百分比",
+					"value": [],
+					"group": "out",
+					"connected": false,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "",
+					"index": 0,
+					"options": {
+						"default": "",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "int"
+						}
+					},
+					"ports": [{
+						"type": "int",
+						"tag": "",
+						"name": "规划预警百分比",
+						"value": [],
+						"group": "out",
+						"connected": false,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "",
+						"index": 0,
+						"options": {
+							"default": "",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "int"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "HA资源评估",
+			"description": "包括HA红线评估、HA计算资源（CPU、内存）合理性评估",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "3eed8e9b491711edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "3ef5ba15491711edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "3ef6f612491711edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "3ef710f0491711edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "3ef72b9d491711edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "3ef741a8491711edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "3ef767cf491711edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6344e7f86795380064a6b6b6",
+			"params": [{
+				"type": "string",
+				"tag": "",
+				"name": "VIM租户",
+				"value": ["NFV-P-HNGZ-05A-HW-01-hnq-C5G-HW",
+				"NFV-P-HNGZ-05A-HW-01-hnq-C5G-HW"],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": "NFV-P-HNGZ-05A-HW-01-hnq-C5G-HW",
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"attrs": {
+					"text": {
+						"text": "string"
+					}
+				},
+				"ports": [{
+					"type": "string",
+					"tag": "",
+					"name": "VIM租户",
+					"value": ["NFV-P-HNGZ-05A-HW-01-hnq-C5G-HW",
+					"NFV-P-HNGZ-05A-HW-01-hnq-C5G-HW"],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": "NFV-P-HNGZ-05A-HW-01-hnq-C5G-HW",
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"attrs": {
+						"text": {
+							"text": "string"
+						}
+					},
+					"ports": [{
+						"type": "string",
+						"tag": "",
+						"name": "VIM租户",
+						"value": ["NFV-P-HNGZ-05A-HW-01-hnq-C5G-HW"],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": "NFV-P-HNGZ-05A-HW-01-hnq-C5G-HW",
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						},
+						"attrs": {
+							"text": {
+								"text": "string"
+							}
+						}
+					}]
+				}]
+			}],
+			"name": "VIM租户资源评估",
+			"description": "VIM租户计算与存储资源评估",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "b03b8791491711edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "b03baed5491711edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "b03bd1c3491711edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "b03bf409491711edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "b03c162a491711edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "b03c3596491711edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "b03c549e491711edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "63523ccf5d7fc90048362064",
+			"params": [],
+			"name": "测试构件正常情况",
+			"description": "测试构件正常情况",
+			"author": "admin",
+			"release": false,
+			"permissions": [{
+				"permission_id": "e45d0a71510911edbd06005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "e45d3c9b510911edbd06005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "e45d67ab510911edbd06005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "e45d8aec510911edbd06005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "e45dadb1510911edbd06005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "e45dd2c9510911edbd06005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "e45df7ee510911edbd06005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		},
+		{
+			"_id": "6422b39839d873003c5591d8",
+			"params": [{
+				"type": "list_string",
+				"tag": "email",
+				"name": "收件人",
+				"value": [["14715669795@139.com"]],
+				"group": "out",
+				"connected": true,
+				"args": {
+					"x": 250,
+					"y": 33
+				},
+				"nodeType": "param",
+				"source": "value",
+				"index": 0,
+				"options": {
+					"default": ["14715669795@139.com"],
+					"enumeration": [],
+					"scope": [],
+					"regular": "",
+					"header": null,
+					"sheet": false
+				},
+				"ports": [{
+					"type": "list_string",
+					"tag": "email",
+					"name": "收件人",
+					"value": [["14715669795@139.com"]],
+					"group": "out",
+					"connected": true,
+					"args": {
+						"x": 250,
+						"y": 33
+					},
+					"nodeType": "param",
+					"source": "value",
+					"index": 0,
+					"options": {
+						"default": ["14715669795@139.com"],
+						"enumeration": [],
+						"scope": [],
+						"regular": "",
+						"header": null,
+						"sheet": false
+					},
+					"ports": [{
+						"type": "list_string",
+						"tag": "email",
+						"name": "收件人",
+						"value": [["14715669795@139.com"]],
+						"group": "out",
+						"connected": true,
+						"args": {
+							"x": 250,
+							"y": 33
+						},
+						"nodeType": "param",
+						"source": "value",
+						"index": 0,
+						"options": {
+							"default": ["14715669795@139.com"],
+							"enumeration": [],
+							"scope": [],
+							"regular": "",
+							"header": null,
+							"sheet": false
+						}
+					}]
+				}]
+			}],
+			"name": "统计HA下冗余主机",
+			"description": "统计HA下无虚拟机的冗余主机，将统计结果通过邮件发送出去",
+			"author": "admin",
+			"release": true,
+			"permissions": [{
+				"permission_id": "05a48293cd4b11ed8da4005056ad5140",
+				"element_id": "mod_delete"
+			},
+			{
+				"permission_id": "05a66869cd4b11ed8da4005056ad5140",
+				"element_id": "mod_edit"
+			},
+			{
+				"permission_id": "05a68ca8cd4b11ed8da4005056ad5140",
+				"element_id": "mod_pubilc"
+			},
+			{
+				"permission_id": "05a6abe5cd4b11ed8da4005056ad5140",
+				"element_id": "mod_look"
+			},
+			{
+				"permission_id": "05a6c9fdcd4b11ed8da4005056ad5140",
+				"element_id": "mod_execute"
+			},
+			{
+				"permission_id": "05a6e5aecd4b11ed8da4005056ad5140",
+				"element_id": "mod_schedule"
+			},
+			{
+				"permission_id": "05a7029acd4b11ed8da4005056ad5140",
+				"element_id": "mod_auth"
+			}]
+		}],
+		"page": 1,
+		"page_size": 200,
+		"count": 26
+	}
+}

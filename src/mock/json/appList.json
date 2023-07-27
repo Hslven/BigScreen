@@ -1,0 +1,113 @@
+{
+	"code": 0,
+	"msg": "操作成功",
+	"data": [{
+	  "appId": "109bf96488a243d2b4a162c92d21b6d7",
+	  "appName": "掌上运维",
+	  "appSecret": "98df4402c16df3e22f00364ea58284190c8ff1a776567601",
+	  "redirectUri": null,
+	  "scope": null,
+	  "delFlag": "0",
+	  "createBy": "huangshengzhong",
+	  "createTime": "2022-07-11 10:27:00",
+	  "updateBy": null,
+	  "updateTime": null
+	},
+	  {
+		"appId": "386b7b4ae0c9404eb1034e875d092fbf",
+		"appName": "中兴zte_ciia",
+		"appSecret": "a46867f3604b470f2ba7bf8036a65740424de7399ec48870",
+		"redirectUri": null,
+		"scope": null,
+		"delFlag": "0",
+		"createBy": "huangshengzhong",
+		"createTime": "2022-07-21 11:03:33",
+		"updateBy": null,
+		"updateTime": null
+	  },
+	  {
+		"appId": "706d43bc27d1487ebf7e2afa3bd6d567",
+		"appName": "统一指令平台",
+		"appSecret": "66ae9ac55880d2dc1202574cc82a9a063f4f533a2e16738a",
+		"redirectUri": null,
+		"scope": null,
+		"delFlag": "0",
+		"createBy": null,
+		"createTime": "2022-03-28 09:23:48",
+		"updateBy": null,
+		"updateTime": null
+	  },
+	  {
+		"appId": "7b0784e245204ee38eedd26ad30dbb3e",
+		"appName": "混沌工程",
+		"appSecret": "f6128729ff1a57585f79fa24a70507347f78a2bf7b893001",
+		"redirectUri": null,
+		"scope": null,
+		"delFlag": "0",
+		"createBy": null,
+		"createTime": "2022-03-28 09:23:09",
+		"updateBy": null,
+		"updateTime": null
+	  },
+	  {
+		"appId": "8b7ef6010ccf4cfb95fb0e96faf32b22",
+		"appName": "3d机房",
+		"appSecret": "c22749d0649077ef1bf9a793619530702391252963597116",
+		"redirectUri": null,
+		"scope": null,
+		"delFlag": "0",
+		"createBy": "admin",
+		"createTime": "2022-03-30 17:42:10",
+		"updateBy": null,
+		"updateTime": "2022-03-30 17:44:20"
+	  },
+	  {
+		"appId": "90634fce97f14e1f88ea156e3643151d",
+		"appName": "主动运维",
+		"appSecret": "b5d48329e26dd7545131c82942a819333022549e7201c084",
+		"redirectUri": null,
+		"scope": null,
+		"delFlag": "0",
+		"createBy": null,
+		"createTime": "2022-03-30 16:30:17",
+		"updateBy": null,
+		"updateTime": null
+	  },
+	  {
+		"appId": "b0d764092d814ad79c82b89cb5f5ffb8",
+		"appName": "飞思达拨测系统",
+		"appSecret": "b7872770f259a39c10f2a145b8396667e987d4b073e31046",
+		"redirectUri": null,
+		"scope": null,
+		"delFlag": "0",
+		"createBy": "admin",
+		"createTime": "2022-08-12 17:35:25",
+		"updateBy": null,
+		"updateTime": null
+	  },
+	  {
+		"appId": "c1aa1b0df79d48498e8190f02bc60c4c",
+		"appName": "华讯自动化平台",
+		"appSecret": "b1f30918262611170869a90379fa2b04fd43d5d802736476",
+		"redirectUri": null,
+		"scope": null,
+		"delFlag": "0",
+		"createBy": "huangshengzhong",
+		"createTime": "2022-07-06 16:24:26",
+		"updateBy": null,
+		"updateTime": "2022-07-06 16:30:37"
+	  },
+	  {
+		"appId": "f7ac57a410464a179414ec37ab44ff81",
+		"appName": "test",
+		"appSecret": "456986a1f068d3c85066796ca4173b61719c63c921c8919b",
+		"redirectUri": null,
+		"scope": null,
+		"delFlag": "0",
+		"createBy": "root",
+		"createTime": "2022-03-22 09:31:39",
+		"updateBy": null,
+		"updateTime": null
+	  }]
+  }
+  

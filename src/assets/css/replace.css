@@ -1,0 +1,149 @@
+/*
+  * 替换quasar的类布局
+  * row -> l-row
+  * col-1 -> l-col-1
+  * items-center -> l-items-center
+*/
+
+.l-row {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.l-items-center {
+  align-items: center;
+}
+
+.l-vertical-middle {
+  vertical-align: middle !important;
+}
+
+.l-col-1 {
+  width: 8.33333% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-2 {
+  width: 16.66667% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-3 {
+  width: 25% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-4 {
+  width: 33.33333% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-5 {
+  width: 41.66667% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-6 {
+  width: 50% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-7 {
+  width: 58.33333% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-8 {
+  width: 66.66667% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-9 {
+  width: 75% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-10 {
+  width: 83.33333% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-11 {
+  width: 91.66667% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.l-col-12 {
+  width: 100% !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+
+@media (max-width:1024px) {
+  .l-col-md-auto, .l-col-md-0, .l-col-md-1, .l-col-md-2, .l-col-md-3, .l-col-md-4, .l-col-md-5, .l-col-md-6, .l-col-md-7, .l-col-md-8, .l-col-md-9, .l-col-md-10, .l-col-md-11, .l-col-md-12 {
+    flex: 0 0 auto;
+
+  }
+
+  .l-col-md-1 {
+    width: 8.33333% !important;
+  }
+
+  .l-col-md-2 {
+    width: 16.66667% !important;
+  }
+
+  .l-col-md-3 {
+    width: 25% !important;
+  }
+
+  .l-col-md-4 {
+    width: 33.33333% !important;
+  }
+
+  .l-col-md-5 {
+    width: 41.66667% !important;
+  }
+
+  .l-col-md-6 {
+    width: 50% !important;
+  }
+
+  .l-col-md-7 {
+    width: 58.33333% !important;
+  }
+
+  .l-col-md-8 {
+    width: 66.66667% !important;
+  }
+
+  .l-col-md-9 {
+    width: 75% !important;
+  }
+
+  .l-col-md-10 {
+    width: 83.33333% !important;
+  }
+
+  .l-col-md-11 {
+    width: 91.66667% !important;
+  }
+
+  .l-col-md-12 {
+    width: 100% !important;
+  }
+
+}

@@ -1,0 +1,100 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "azName": "NFV-RP-HNGZ-05A-HW-01|NFV-AZ-HNGZ-05A-HW-01-AZ1",
+            "panel": [
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC01",
+                    "default": 2,
+                    "unrecoverable": 0,
+                    "danger": 20,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-MNG01",
+                    "default": 10,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 5
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC09",
+                    "default": 3,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC07",
+                    "default": 248,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC05",
+                    "default": 224,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC03",
+                    "default": 72,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                }
+            ]
+        },
+        {
+            "azName": "NFV-RP-HNGZ-05A-HW-01|NFV-AZ-HNGZ-05A-HW-01-AZ2",
+            "panel": [
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC02",
+                    "default": 62,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC10",
+                    "default": 72,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-MNG02",
+                    "default": 10,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC08",
+                    "default": 168,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC06",
+                    "default": 252,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                },
+                {
+                    "hostName": "NFV-RP-HNGZ-05A-HW-01|NFV-HA-HNGZ-05A-HW-01-SVIC04",
+                    "default": 180,
+                    "unrecoverable": 0,
+                    "danger": 0,
+                    "error": 0
+                }
+            ]
+        }
+    ]
+}

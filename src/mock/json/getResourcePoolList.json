@@ -1,0 +1,204 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+      {
+        "id": 1,
+        "name": "NFV-RP-HNGZ-00A",
+        "vendor": "HUAWEI",
+        "alias": "DMZ",
+        "periods": "一期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 4,
+        "name": "NFV-RP-HNGZ-01A",
+        "vendor": "ERICSSON",
+        "alias": "可信1",
+        "periods": "一期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 2,
+        "name": "NFV-RP-HNGZ-02A",
+        "vendor": "HUAWEI",
+        "alias": "可信2",
+        "periods": "一期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 3,
+        "name": "NFV-RP-HNGZ-03A",
+        "vendor": "HUAWEI",
+        "alias": "可信3",
+        "periods": "一期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 5,
+        "name": "NFV-RP-HNGZ-04A",
+        "vendor": "ERICSSON",
+        "alias": "可信4",
+        "periods": "一期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 6,
+        "name": "NFV-RP-HNGZ-05A",
+        "vendor": "HUAWEI",
+        "alias": "可信5",
+        "periods": "二期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 7,
+        "name": "NFV-RP-HNGZ-06A",
+        "vendor": "",
+        "alias": "可信6",
+        "periods": "二期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 8,
+        "name": "NFV-RP-HNGZ-07A",
+        "vendor": "ERICSSON",
+        "alias": "可信7",
+        "periods": "二期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 9,
+        "name": "NFV-RP-HNGZ-08A",
+        "vendor": "ZX",
+        "alias": "可信8",
+        "periods": "二期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 10,
+        "name": "NFV-RP-HNGZ-09A",
+        "vendor": "HUAWEI",
+        "alias": "网管9",
+        "periods": "二期",
+        "usable": 0,
+        "createTime": "2021-03-15 11:36:45",
+        "updateTime": "2021-03-15 11:36:48",
+        "remark": null
+      },
+      {
+        "id": 11,
+        "name": "NFV-RP-HNGZ-11A",
+        "vendor": null,
+        "alias": "可信11",
+        "periods": "三期",
+        "usable": 1,
+        "createTime": "2022-12-30 15:06:59",
+        "updateTime": "2022-12-30 15:07:02",
+        "remark": null
+      },
+      {
+        "id": 12,
+        "name": "NFV-RP-HNZJI-00A",
+        "vendor": null,
+        "alias": "湛江DMZ",
+        "periods": "三期",
+        "usable": 1,
+        "createTime": "2022-12-30 15:09:53",
+        "updateTime": "2022-12-30 15:09:56",
+        "remark": null
+      },
+      {
+        "id": 13,
+        "name": "NFV-RP-HNZJI-01A",
+        "vendor": null,
+        "alias": "湛江可信1",
+        "periods": "三期",
+        "usable": 1,
+        "createTime": "2022-12-30 15:10:24",
+        "updateTime": "2022-12-30 15:10:26",
+        "remark": null
+      },
+      {
+        "id": 14,
+        "name": "NFV-RP-HNZJI-02A",
+        "vendor": null,
+        "alias": "湛江可信2",
+        "periods": "三期",
+        "usable": 1,
+        "createTime": "2022-12-30 15:10:43",
+        "updateTime": "2022-12-30 15:10:46",
+        "remark": null
+      },
+      {
+        "id": 15,
+        "name": "NFV-RP-HNZJI-03A",
+        "vendor": null,
+        "alias": "湛江可信3",
+        "periods": "三期",
+        "usable": 1,
+        "createTime": "2022-12-30 15:11:15",
+        "updateTime": "2022-12-30 15:11:25",
+        "remark": null
+      },
+      {
+        "id": 16,
+        "name": "NFV-RP-HNZJI-04A",
+        "vendor": null,
+        "alias": "湛江可信4",
+        "periods": "三期",
+        "usable": 1,
+        "createTime": "2022-12-30 15:11:55",
+        "updateTime": "2022-12-30 15:11:57",
+        "remark": null
+      },
+      {
+        "id": 17,
+        "name": "NFV-RP-HNZJI-05A",
+        "vendor": null,
+        "alias": "湛江可信5",
+        "periods": "三期",
+        "usable": 1,
+        "createTime": "2022-12-30 15:12:24",
+        "updateTime": "2022-12-30 15:12:26",
+        "remark": null
+      },
+      {
+        "id": 18,
+        "name": "NFV-RP-HNZJI-06A",
+        "vendor": null,
+        "alias": "湛江可信6",
+        "periods": "三期",
+        "usable": 1,
+        "createTime": "2022-12-30 15:12:49",
+        "updateTime": "2022-12-30 15:12:52",
+        "remark": null
+      }
+    ]
+  }

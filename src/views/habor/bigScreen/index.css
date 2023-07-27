@@ -1,0 +1,63 @@
+.screen-app {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: left top;
+  overflow: auto;
+}
+header {
+  position: relative;
+  z-index: 1;
+  height: 70px;
+  background: url(~@/assets/images/screen/screen_nav.png) no-repeat top center;
+  background-size: 100% 100%;
+}
+.sys-name {
+  line-height: 63px;
+  font-size: 36px;
+  font-family: logo-font;
+  letter-spacing: 6px;
+  margin-right: 50px;
+  text-shadow: 3px 0px 9px #4DB5FF;
+}
+.tab-grid {
+  font-family: logo-font;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.tab-style {
+  z-index: 1;
+  letter-spacing: 2px;
+  font-size: 18px;
+  line-height: 23px;
+}
+.tab-bg {
+  position: relative;
+  width: 170px;
+  height: 32px;
+  cursor: pointer;
+}
+.tab-unselec-font-color {
+  color: #6875A0;
+}
+.header-right-style {
+  font-size: 18px;
+  font-family: logo-font;
+  line-height: 28px;
+}
+.fullscreen-icon-style {
+  color: #fff;
+  font-size: 24px;
+  margin-bottom: 2px;
+}
+
+.bin-light-font {
+  font-family: din-light
+}
+
+.t-swiper--inside .t-swiper__navigation--fraction{
+  opacity: 0;
+}

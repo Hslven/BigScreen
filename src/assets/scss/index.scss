@@ -1,0 +1,34 @@
+#big-screen {
+  color: #d3d6dd;
+  
+  .screen-bg {
+    width: 100%;
+    height: 100%;
+    background-image: url("~@/assets/images/screen/screen_bg.png");
+    background-size: cover;
+    background-position: center center;
+  }
+  .screen-body {
+    content: '';
+    position:absolute;
+    width:100%;
+    height:100%;
+  }
+  .nav-selected-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("~@/assets/images/screen/tab_selected.png");
+    background-size: cover;
+    background-position: center center;
+    transition: all 1s;
+  }
+  .nav-unselect-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("~@/assets/images/screen/tab_unselect.png");
+    background-size: cover;
+    background-position: center center;
+  }
+}

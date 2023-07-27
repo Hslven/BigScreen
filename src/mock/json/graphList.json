@@ -1,0 +1,1994 @@
+[
+    {
+        "cells": [
+            {
+                "shape": "arrow",
+                "attrs": {
+                    "line": {
+                        "stroke": "#ffc97a",
+                        "targetMarker": null,
+                        "connection": true,
+                        "fill": "none"
+                    },
+                    "arrow": {
+                        "fill": "#ffc97a"
+                    }
+                },
+                "id": "03b9ad84-e1ff-4e8f-9047-88fe3b57be5f",
+                "zIndex": -5,
+                "labels": [
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "3.24MB",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refX": -8,
+                                "refY": -5,
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#ffc97a",
+                                "strokeWidth": 1,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:out",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.3,
+                            "args": {
+                                "keepGradient": true,
+                                "ensureLegibility": true
+                            }
+                        }
+                    },
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "0",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#ffc97a",
+                                "strokeWidth": 1,
+                                "refX": -8,
+                                "refY": -5,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:in",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.7,
+                            "angle": 0
+                        }
+                    }
+                ],
+                "vertices": [
+                    {
+                        "x": 147,
+                        "y": 40
+                    }
+                ],
+                "source": {
+                    "cell": "1b1864f2-273c-41d1-8ed4-bf0cca92c0a1",
+                    "port": "in"
+                },
+                "target": {
+                    "cell": "b3114ab2-85fd-47a8-b481-e7fea3dc8b2b",
+                    "port": "in"
+                }
+            },
+            {
+                "shape": "arrow",
+                "attrs": {
+                    "line": {
+                        "stroke": "#ffc97a",
+                        "targetMarker": null,
+                        "connection": true,
+                        "fill": "none"
+                    },
+                    "arrow": {
+                        "fill": "#ffc97a"
+                    }
+                },
+                "id": "d46caab5-0d99-4535-9412-80b0d938eb16",
+                "zIndex": -4,
+                "labels": [
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "32.32KB",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refX": -8,
+                                "refY": -5,
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#ffc97a",
+                                "strokeWidth": 1,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:out",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.3,
+                            "args": {
+                                "keepGradient": true,
+                                "ensureLegibility": true
+                            }
+                        }
+                    },
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "424.24MB",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#ffc97a",
+                                "strokeWidth": 1,
+                                "refX": -8,
+                                "refY": -5,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:in",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.7,
+                            "angle": 0
+                        }
+                    }
+                ],
+                "vertices": [
+                    {
+                        "x": 300,
+                        "y": 100
+                    }
+                ],
+                "source": {
+                    "cell": "c2860cf0-87c1-4138-95d2-ab216997c8e4",
+                    "port": "in"
+                },
+                "target": {
+                    "cell": "1b1864f2-273c-41d1-8ed4-bf0cca92c0a1",
+                    "port": "in"
+                }
+            },
+            {
+                "shape": "arrow",
+                "attrs": {
+                    "line": {
+                        "stroke": "#dd5b5b",
+                        "targetMarker": null,
+                        "connection": true,
+                        "fill": "none"
+                    },
+                    "arrow": {
+                        "fill": "#dd5b5b"
+                    }
+                },
+                "id": "35f3d053-6cc3-4471-9740-b572493982a1",
+                "zIndex": -3,
+                "labels": [
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "421.53GB",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refX": -8,
+                                "refY": -5,
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#dd5b5b",
+                                "strokeWidth": 1,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:out",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.3,
+                            "args": {
+                                "keepGradient": true,
+                                "ensureLegibility": true
+                            }
+                        }
+                    },
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "0",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#dd5b5b",
+                                "strokeWidth": 1,
+                                "refX": -8,
+                                "refY": -5,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:in",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.7,
+                            "angle": 0
+                        }
+                    }
+                ],
+                "vertices": [
+                    {
+                        "x": 700,
+                        "y": 50
+                    }
+                ],
+                "source": {
+                    "cell": "989cc188-e490-4942-981c-7ba7a41f4861",
+                    "port": "in"
+                },
+                "target": {
+                    "cell": "d3956795-01d1-4c36-9861-1250b80bae7c",
+                    "port": "in"
+                }
+            },
+            {
+                "shape": "arrow",
+                "attrs": {
+                    "line": {
+                        "stroke": "#83fffe",
+                        "targetMarker": null,
+                        "connection": true,
+                        "fill": "none"
+                    },
+                    "arrow": {
+                        "fill": "#83fffe"
+                    }
+                },
+                "id": "bfb1c24e-5198-4de1-acd2-10e171b8441a",
+                "zIndex": -2,
+                "labels": [
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "0",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refX": -8,
+                                "refY": -5,
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#83fffe",
+                                "strokeWidth": 1,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:out",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.3,
+                            "args": {
+                                "keepGradient": true,
+                                "ensureLegibility": true
+                            }
+                        }
+                    },
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "0",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#83fffe",
+                                "strokeWidth": 1,
+                                "refX": -8,
+                                "refY": -5,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:in",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.7,
+                            "angle": 0
+                        }
+                    }
+                ],
+                "vertices": [
+                    {
+                        "x": 600,
+                        "y": 100
+                    }
+                ],
+                "source": {
+                    "cell": "989cc188-e490-4942-981c-7ba7a41f4861",
+                    "port": "in"
+                },
+                "target": {
+                    "cell": "c2860cf0-87c1-4138-95d2-ab216997c8e4",
+                    "port": "in"
+                }
+            },
+            {
+                "shape": "arrow",
+                "attrs": {
+                    "line": {
+                        "stroke": "#ffc97a",
+                        "targetMarker": null,
+                        "connection": true,
+                        "fill": "none"
+                    },
+                    "arrow": {
+                        "fill": "#ffc97a"
+                    }
+                },
+                "id": "4d31a0c8-b4ab-4fa9-b41d-082a0fa73321",
+                "zIndex": -1,
+                "labels": [
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "424.24MB",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refX": -8,
+                                "refY": -5,
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#ffc97a",
+                                "strokeWidth": 1,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:out",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.3,
+                            "args": {
+                                "keepGradient": true,
+                                "ensureLegibility": true
+                            }
+                        }
+                    },
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "0",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#ffc97a",
+                                "strokeWidth": 1,
+                                "refX": -8,
+                                "refY": -5,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:in",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.7,
+                            "angle": 0
+                        }
+                    }
+                ],
+                "vertices": [
+                    {
+                        "x": 250,
+                        "y": -100
+                    }
+                ],
+                "source": {
+                    "cell": "b3d29dae-7ad6-4128-86ac-5cf9800a8f66",
+                    "port": "in"
+                },
+                "target": {
+                    "cell": "b3114ab2-85fd-47a8-b481-e7fea3dc8b2b",
+                    "port": "in"
+                }
+            },
+            {
+                "shape": "arrow",
+                "attrs": {
+                    "line": {
+                        "stroke": "#83fffe",
+                        "targetMarker": null,
+                        "connection": true,
+                        "fill": "none"
+                    }
+                },
+                "id": "cff8e88a-e1ee-4eab-ba9b-c2507e5dadfd",
+                "zIndex": 0,
+                "labels": [
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "3.24MB",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refX": -8,
+                                "refY": -5,
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#83fffe",
+                                "strokeWidth": 1,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:out",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.3,
+                            "args": {
+                                "keepGradient": true,
+                                "ensureLegibility": true
+                            }
+                        }
+                    },
+                    {
+                        "markup": [
+                            {
+                                "tagName": "rect",
+                                "selector": "labelBody"
+                            },
+                            {
+                                "tagName": "text",
+                                "selector": "labelText"
+                            }
+                        ],
+                        "attrs": {
+                            "labelText": {
+                                "text": "0",
+                                "fill": "#000",
+                                "textAnchor": "middle",
+                                "textVerticalAnchor": "middle"
+                            },
+                            "labelBody": {
+                                "ref": "labelText",
+                                "refWidth": "100%",
+                                "refHeight": "100%",
+                                "refWidth2": 16,
+                                "refHeight2": 10,
+                                "stroke": "#000",
+                                "fill": "#83fffe",
+                                "strokeWidth": 1,
+                                "refX": -8,
+                                "refY": -5,
+                                "rx": 5,
+                                "ry": 5,
+                                "event": "click:in",
+                                "cursor": "pointer"
+                            }
+                        },
+                        "position": {
+                            "distance": 0.7,
+                            "angle": 0
+                        }
+                    }
+                ],
+                "vertices": [
+                    {
+                        "x": 500,
+                        "y": -100
+                    }
+                ],
+                "source": {
+                    "cell": "d3956795-01d1-4c36-9861-1250b80bae7c",
+                    "port": "in"
+                },
+                "target": {
+                    "cell": "b3d29dae-7ad6-4128-86ac-5cf9800a8f66",
+                    "port": "in"
+                }
+            },
+            {
+                "position": {
+                    "x": 700,
+                    "y": 50
+                },
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "attrs": {
+                    "text": {
+                        "text": "TOR交换机"
+                    },
+                    "image": {
+                        "xlink:href": "img/TOR_switchboard.png"
+                    }
+                },
+                "visible": true,
+                "shape": "custom-image",
+                "ports": {
+                    "groups": {
+                        "in": {
+                            "attrs": {
+                                "circle": {
+                                    "r": 8,
+                                    "magnet": true,
+                                    "stroke": "#31d0c6",
+                                    "strokeWidth": 2,
+                                    "fill": "#fff"
+                                }
+                            },
+                            "position": {
+                                "name": "absolute",
+                                "args": {
+                                    "x": "50%",
+                                    "y": "50%"
+                                }
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "in",
+                            "group": "in"
+                        }
+                    ]
+                },
+                "id": "989cc188-e490-4942-981c-7ba7a41f4861",
+                "zIndex": 1
+            },
+            {
+                "position": {
+                    "x": 350,
+                    "y": -150
+                },
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "attrs": {
+                    "text": {
+                        "text": "路由器"
+                    },
+                    "image": {
+                        "xlink:href": "data:image/png;base64,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"
+                    }
+                },
+                "visible": true,
+                "shape": "custom-image",
+                "ports": {
+                    "groups": {
+                        "in": {
+                            "attrs": {
+                                "circle": {
+                                    "r": 8,
+                                    "magnet": true,
+                                    "stroke": "#31d0c6",
+                                    "strokeWidth": 2,
+                                    "fill": "#fff"
+                                }
+                            },
+                            "position": {
+                                "name": "absolute",
+                                "args": {
+                                    "x": "50%",
+                                    "y": "50%"
+                                }
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "in",
+                            "group": "in"
+                        }
+                    ]
+                },
+                "id": "b3d29dae-7ad6-4128-86ac-5cf9800a8f66",
+                "zIndex": 2
+            },
+            {
+                "position": {
+                    "x": 600,
+                    "y": -100
+                },
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "attrs": {
+                    "text": {
+                        "text": "TOR交换机"
+                    },
+                    "image": {
+                        "xlink:href": "img/TOR_switchboard.png"
+                    }
+                },
+                "visible": true,
+                "shape": "custom-image",
+                "ports": {
+                    "groups": {
+                        "in": {
+                            "attrs": {
+                                "circle": {
+                                    "r": 8,
+                                    "magnet": true,
+                                    "stroke": "#31d0c6",
+                                    "strokeWidth": 2,
+                                    "fill": "#fff"
+                                }
+                            },
+                            "position": {
+                                "name": "absolute",
+                                "args": {
+                                    "x": "50%",
+                                    "y": "50%"
+                                }
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "in",
+                            "group": "in"
+                        }
+                    ]
+                },
+                "id": "d3956795-01d1-4c36-9861-1250b80bae7c",
+                "zIndex": 3
+            },
+            {
+                "position": {
+                    "x": 50,
+                    "y": -90
+                },
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "attrs": {
+                    "text": {
+                        "text": "服务器"
+                    },
+                    "image": {
+                        "xlink:href": "img/server.png"
+                    }
+                },
+                "visible": true,
+                "shape": "custom-image",
+                "ports": {
+                    "groups": {
+                        "in": {
+                            "attrs": {
+                                "circle": {
+                                    "r": 8,
+                                    "magnet": true,
+                                    "stroke": "#31d0c6",
+                                    "strokeWidth": 2,
+                                    "fill": "#fff"
+                                }
+                            },
+                            "position": {
+                                "name": "absolute",
+                                "args": {
+                                    "x": "50%",
+                                    "y": "50%"
+                                }
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "in",
+                            "group": "in"
+                        }
+                    ]
+                },
+                "id": "b3114ab2-85fd-47a8-b481-e7fea3dc8b2b",
+                "zIndex": 4
+            },
+            {
+                "position": {
+                    "x": 500,
+                    "y": 100
+                },
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "attrs": {
+                    "text": {
+                        "text": "防火墙"
+                    },
+                    "image": {
+                        "xlink:href": "data:image/png;base64,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"
+                    }
+                },
+                "visible": true,
+                "shape": "custom-image",
+                "ports": {
+                    "groups": {
+                        "in": {
+                            "attrs": {
+                                "circle": {
+                                    "r": 8,
+                                    "magnet": true,
+                                    "stroke": "#31d0c6",
+                                    "strokeWidth": 2,
+                                    "fill": "#fff"
+                                }
+                            },
+                            "position": {
+                                "name": "absolute",
+                                "args": {
+                                    "x": "50%",
+                                    "y": "50%"
+                                }
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "in",
+                            "group": "in"
+                        }
+                    ]
+                },
+                "id": "c2860cf0-87c1-4138-95d2-ab216997c8e4",
+                "zIndex": 5
+            },
+            {
+                "position": {
+                    "x": 197,
+                    "y": 40
+                },
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "attrs": {
+                    "text": {
+                        "text": "IP承载网"
+                    },
+                    "image": {
+                        "xlink:href": "data:image/png;base64,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"
+                    }
+                },
+                "visible": true,
+                "shape": "custom-image",
+                "ports": {
+                    "groups": {
+                        "in": {
+                            "attrs": {
+                                "circle": {
+                                    "r": 8,
+                                    "magnet": true,
+                                    "stroke": "#31d0c6",
+                                    "strokeWidth": 2,
+                                    "fill": "#fff"
+                                }
+                            },
+                            "position": {
+                                "name": "absolute",
+                                "args": {
+                                    "x": "50%",
+                                    "y": "50%"
+                                }
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "in",
+                            "group": "in"
+                        }
+                    ]
+                },
+                "id": "1b1864f2-273c-41d1-8ed4-bf0cca92c0a1",
+                "zIndex": 6
+            }
+        ],
+        "name": "资源池01流量图",
+        "id": 2,
+        "interval_updata_time": 300000,
+        "intervalUnit":""
+    
+      },
+  {
+    "cells": [
+        {
+            "shape": "arrow",
+            "attrs": {
+                "line": {
+                    "stroke": "#ffc97a",
+                    "targetMarker": null,
+                    "connection": true,
+                    "fill": "none"
+                },
+                "arrow": {
+                    "fill": "#ffc97a"
+                }
+            },
+            "id": "03b9ad84-e1ff-4e8f-9047-88fe3b57be5f",
+            "zIndex": -5,
+            "labels": [
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "3.24MB",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refX": -8,
+                            "refY": -5,
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#ffc97a",
+                            "strokeWidth": 1,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:out",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.3,
+                        "args": {
+                            "keepGradient": true,
+                            "ensureLegibility": true
+                        }
+                    }
+                },
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "0",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#ffc97a",
+                            "strokeWidth": 1,
+                            "refX": -8,
+                            "refY": -5,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:in",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.7,
+                        "angle": 0
+                    }
+                }
+            ],
+            "vertices": [
+                {
+                    "x": 147,
+                    "y": 40
+                }
+            ],
+            "source": {
+                "cell": "1b1864f2-273c-41d1-8ed4-bf0cca92c0a1",
+                "port": "in"
+            },
+            "target": {
+                "cell": "b3114ab2-85fd-47a8-b481-e7fea3dc8b2b",
+                "port": "in"
+            }
+        },
+        {
+            "shape": "arrow",
+            "attrs": {
+                "line": {
+                    "stroke": "#ffc97a",
+                    "targetMarker": null,
+                    "connection": true,
+                    "fill": "none"
+                },
+                "arrow": {
+                    "fill": "#ffc97a"
+                }
+            },
+            "id": "d46caab5-0d99-4535-9412-80b0d938eb16",
+            "zIndex": -4,
+            "labels": [
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "32.32KB",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refX": -8,
+                            "refY": -5,
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#ffc97a",
+                            "strokeWidth": 1,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:out",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.3,
+                        "args": {
+                            "keepGradient": true,
+                            "ensureLegibility": true
+                        }
+                    }
+                },
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "424.24MB",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#ffc97a",
+                            "strokeWidth": 1,
+                            "refX": -8,
+                            "refY": -5,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:in",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.7,
+                        "angle": 0
+                    }
+                }
+            ],
+            "vertices": [
+                {
+                    "x": 300,
+                    "y": 100
+                }
+            ],
+            "source": {
+                "cell": "c2860cf0-87c1-4138-95d2-ab216997c8e4",
+                "port": "in"
+            },
+            "target": {
+                "cell": "1b1864f2-273c-41d1-8ed4-bf0cca92c0a1",
+                "port": "in"
+            }
+        },
+        {
+            "shape": "arrow",
+            "attrs": {
+                "line": {
+                    "stroke": "#dd5b5b",
+                    "targetMarker": null,
+                    "connection": true,
+                    "fill": "none"
+                },
+                "arrow": {
+                    "fill": "#dd5b5b"
+                }
+            },
+            "id": "35f3d053-6cc3-4471-9740-b572493982a1",
+            "zIndex": -3,
+            "labels": [
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "421.53GB",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refX": -8,
+                            "refY": -5,
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#dd5b5b",
+                            "strokeWidth": 1,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:out",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.3,
+                        "args": {
+                            "keepGradient": true,
+                            "ensureLegibility": true
+                        }
+                    }
+                },
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "0",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#dd5b5b",
+                            "strokeWidth": 1,
+                            "refX": -8,
+                            "refY": -5,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:in",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.7,
+                        "angle": 0
+                    }
+                }
+            ],
+            "vertices": [
+                {
+                    "x": 700,
+                    "y": 50
+                }
+            ],
+            "source": {
+                "cell": "989cc188-e490-4942-981c-7ba7a41f4861",
+                "port": "in"
+            },
+            "target": {
+                "cell": "d3956795-01d1-4c36-9861-1250b80bae7c",
+                "port": "in"
+            }
+        },
+        {
+            "shape": "arrow",
+            "attrs": {
+                "line": {
+                    "stroke": "#83fffe",
+                    "targetMarker": null,
+                    "connection": true,
+                    "fill": "none"
+                },
+                "arrow": {
+                    "fill": "#83fffe"
+                }
+            },
+            "id": "bfb1c24e-5198-4de1-acd2-10e171b8441a",
+            "zIndex": -2,
+            "labels": [
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "0",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refX": -8,
+                            "refY": -5,
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#83fffe",
+                            "strokeWidth": 1,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:out",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.3,
+                        "args": {
+                            "keepGradient": true,
+                            "ensureLegibility": true
+                        }
+                    }
+                },
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "0",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#83fffe",
+                            "strokeWidth": 1,
+                            "refX": -8,
+                            "refY": -5,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:in",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.7,
+                        "angle": 0
+                    }
+                }
+            ],
+            "vertices": [
+                {
+                    "x": 600,
+                    "y": 100
+                }
+            ],
+            "source": {
+                "cell": "989cc188-e490-4942-981c-7ba7a41f4861",
+                "port": "in"
+            },
+            "target": {
+                "cell": "c2860cf0-87c1-4138-95d2-ab216997c8e4",
+                "port": "in"
+            }
+        },
+        {
+            "shape": "arrow",
+            "attrs": {
+                "line": {
+                    "stroke": "#ffc97a",
+                    "targetMarker": null,
+                    "connection": true,
+                    "fill": "none"
+                },
+                "arrow": {
+                    "fill": "#ffc97a"
+                }
+            },
+            "id": "4d31a0c8-b4ab-4fa9-b41d-082a0fa73321",
+            "zIndex": -1,
+            "labels": [
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "424.24MB",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refX": -8,
+                            "refY": -5,
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#ffc97a",
+                            "strokeWidth": 1,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:out",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.3,
+                        "args": {
+                            "keepGradient": true,
+                            "ensureLegibility": true
+                        }
+                    }
+                },
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "0",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#ffc97a",
+                            "strokeWidth": 1,
+                            "refX": -8,
+                            "refY": -5,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:in",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.7,
+                        "angle": 0
+                    }
+                }
+            ],
+            "vertices": [
+                {
+                    "x": 250,
+                    "y": -100
+                }
+            ],
+            "source": {
+                "cell": "b3d29dae-7ad6-4128-86ac-5cf9800a8f66",
+                "port": "in"
+            },
+            "target": {
+                "cell": "b3114ab2-85fd-47a8-b481-e7fea3dc8b2b",
+                "port": "in"
+            }
+        },
+        {
+            "shape": "arrow",
+            "attrs": {
+                "line": {
+                    "stroke": "#83fffe",
+                    "targetMarker": null,
+                    "connection": true,
+                    "fill": "none"
+                }
+            },
+            "id": "cff8e88a-e1ee-4eab-ba9b-c2507e5dadfd",
+            "zIndex": 0,
+            "labels": [
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "3.24MB",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refX": -8,
+                            "refY": -5,
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#83fffe",
+                            "strokeWidth": 1,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:out",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.3,
+                        "args": {
+                            "keepGradient": true,
+                            "ensureLegibility": true
+                        }
+                    }
+                },
+                {
+                    "markup": [
+                        {
+                            "tagName": "rect",
+                            "selector": "labelBody"
+                        },
+                        {
+                            "tagName": "text",
+                            "selector": "labelText"
+                        }
+                    ],
+                    "attrs": {
+                        "labelText": {
+                            "text": "0",
+                            "fill": "#000",
+                            "textAnchor": "middle",
+                            "textVerticalAnchor": "middle"
+                        },
+                        "labelBody": {
+                            "ref": "labelText",
+                            "refWidth": "100%",
+                            "refHeight": "100%",
+                            "refWidth2": 16,
+                            "refHeight2": 10,
+                            "stroke": "#000",
+                            "fill": "#83fffe",
+                            "strokeWidth": 1,
+                            "refX": -8,
+                            "refY": -5,
+                            "rx": 5,
+                            "ry": 5,
+                            "event": "click:in",
+                            "cursor": "pointer"
+                        }
+                    },
+                    "position": {
+                        "distance": 0.7,
+                        "angle": 0
+                    }
+                }
+            ],
+            "vertices": [
+                {
+                    "x": 500,
+                    "y": -100
+                }
+            ],
+            "source": {
+                "cell": "d3956795-01d1-4c36-9861-1250b80bae7c",
+                "port": "in"
+            },
+            "target": {
+                "cell": "b3d29dae-7ad6-4128-86ac-5cf9800a8f66",
+                "port": "in"
+            }
+        },
+        {
+            "position": {
+                "x": 700,
+                "y": 50
+            },
+            "size": {
+                "width": 60,
+                "height": 60
+            },
+            "attrs": {
+                "text": {
+                    "text": "TOR交换机"
+                },
+                "image": {
+                    "xlink:href": "img/TOR_switchboard.png"
+                }
+            },
+            "visible": true,
+            "shape": "custom-image",
+            "ports": {
+                "groups": {
+                    "in": {
+                        "attrs": {
+                            "circle": {
+                                "r": 8,
+                                "magnet": true,
+                                "stroke": "#31d0c6",
+                                "strokeWidth": 2,
+                                "fill": "#fff"
+                            }
+                        },
+                        "position": {
+                            "name": "absolute",
+                            "args": {
+                                "x": "50%",
+                                "y": "50%"
+                            }
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "id": "in",
+                        "group": "in"
+                    }
+                ]
+            },
+            "id": "989cc188-e490-4942-981c-7ba7a41f4861",
+            "zIndex": 1
+        },
+        {
+            "position": {
+                "x": 350,
+                "y": -150
+            },
+            "size": {
+                "width": 60,
+                "height": 60
+            },
+            "attrs": {
+                "text": {
+                    "text": "路由器"
+                },
+                "image": {
+                    "xlink:href": "data:image/png;base64,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"
+                }
+            },
+            "visible": true,
+            "shape": "custom-image",
+            "ports": {
+                "groups": {
+                    "in": {
+                        "attrs": {
+                            "circle": {
+                                "r": 8,
+                                "magnet": true,
+                                "stroke": "#31d0c6",
+                                "strokeWidth": 2,
+                                "fill": "#fff"
+                            }
+                        },
+                        "position": {
+                            "name": "absolute",
+                            "args": {
+                                "x": "50%",
+                                "y": "50%"
+                            }
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "id": "in",
+                        "group": "in"
+                    }
+                ]
+            },
+            "id": "b3d29dae-7ad6-4128-86ac-5cf9800a8f66",
+            "zIndex": 2
+        },
+        {
+            "position": {
+                "x": 600,
+                "y": -100
+            },
+            "size": {
+                "width": 60,
+                "height": 60
+            },
+            "attrs": {
+                "text": {
+                    "text": "TOR交换机"
+                },
+                "image": {
+                    "xlink:href": "img/TOR_switchboard.png"
+                }
+            },
+            "visible": true,
+            "shape": "custom-image",
+            "ports": {
+                "groups": {
+                    "in": {
+                        "attrs": {
+                            "circle": {
+                                "r": 8,
+                                "magnet": true,
+                                "stroke": "#31d0c6",
+                                "strokeWidth": 2,
+                                "fill": "#fff"
+                            }
+                        },
+                        "position": {
+                            "name": "absolute",
+                            "args": {
+                                "x": "50%",
+                                "y": "50%"
+                            }
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "id": "in",
+                        "group": "in"
+                    }
+                ]
+            },
+            "id": "d3956795-01d1-4c36-9861-1250b80bae7c",
+            "zIndex": 3
+        },
+        {
+            "position": {
+                "x": 50,
+                "y": -90
+            },
+            "size": {
+                "width": 60,
+                "height": 60
+            },
+            "attrs": {
+                "text": {
+                    "text": "服务器"
+                },
+                "image": {
+                    "xlink:href": "img/server.png"
+                }
+            },
+            "visible": true,
+            "shape": "custom-image",
+            "ports": {
+                "groups": {
+                    "in": {
+                        "attrs": {
+                            "circle": {
+                                "r": 8,
+                                "magnet": true,
+                                "stroke": "#31d0c6",
+                                "strokeWidth": 2,
+                                "fill": "#fff"
+                            }
+                        },
+                        "position": {
+                            "name": "absolute",
+                            "args": {
+                                "x": "50%",
+                                "y": "50%"
+                            }
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "id": "in",
+                        "group": "in"
+                    }
+                ]
+            },
+            "id": "b3114ab2-85fd-47a8-b481-e7fea3dc8b2b",
+            "zIndex": 4
+        },
+        {
+            "position": {
+                "x": 500,
+                "y": 100
+            },
+            "size": {
+                "width": 60,
+                "height": 60
+            },
+            "attrs": {
+                "text": {
+                    "text": "防火墙"
+                },
+                "image": {
+                    "xlink:href": "data:image/png;base64,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"
+                }
+            },
+            "visible": true,
+            "shape": "custom-image",
+            "ports": {
+                "groups": {
+                    "in": {
+                        "attrs": {
+                            "circle": {
+                                "r": 8,
+                                "magnet": true,
+                                "stroke": "#31d0c6",
+                                "strokeWidth": 2,
+                                "fill": "#fff"
+                            }
+                        },
+                        "position": {
+                            "name": "absolute",
+                            "args": {
+                                "x": "50%",
+                                "y": "50%"
+                            }
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "id": "in",
+                        "group": "in"
+                    }
+                ]
+            },
+            "id": "c2860cf0-87c1-4138-95d2-ab216997c8e4",
+            "zIndex": 5
+        },
+        {
+            "position": {
+                "x": 197,
+                "y": 40
+            },
+            "size": {
+                "width": 60,
+                "height": 60
+            },
+            "attrs": {
+                "text": {
+                    "text": "IP承载网"
+                },
+                "image": {
+                    "xlink:href": "data:image/png;base64,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"
+                }
+            },
+            "visible": true,
+            "shape": "custom-image",
+            "ports": {
+                "groups": {
+                    "in": {
+                        "attrs": {
+                            "circle": {
+                                "r": 8,
+                                "magnet": true,
+                                "stroke": "#31d0c6",
+                                "strokeWidth": 2,
+                                "fill": "#fff"
+                            }
+                        },
+                        "position": {
+                            "name": "absolute",
+                            "args": {
+                                "x": "50%",
+                                "y": "50%"
+                            }
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "id": "in",
+                        "group": "in"
+                    }
+                ]
+            },
+            "id": "1b1864f2-273c-41d1-8ed4-bf0cca92c0a1",
+            "zIndex": 6
+        }
+    ],
+    "name": "资源池03流量图",
+    "id": 3,
+    "interval_updata_time": 300000,
+    "intervalUnit":""
+
+  }
+]

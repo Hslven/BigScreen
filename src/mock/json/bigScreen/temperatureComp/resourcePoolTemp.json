@@ -1,0 +1,193 @@
+{
+  "code": 0,
+  "msg": "操作成功",
+  "data": {
+    "threshold0": "未采集",
+    "threshold4": ">50°C",
+    "threshold3": "40°C ~ 50°C",
+    "resourcePoolTemp": [
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 179,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "广州DMZ",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-00A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 6,
+        "threshold2Value": 1,
+        "resourcePoolAlias": "广州可信1",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-01A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 11,
+        "threshold2Value": 9,
+        "resourcePoolAlias": "广州可信2",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-02A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 153,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "广州可信3",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-03A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 2,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "广州可信4",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-04A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 1688,
+        "threshold2Value": 133,
+        "resourcePoolAlias": "广州可信5",
+        "threshold3Value": 2440,
+        "resourcePoolName": "NFV-RP-HNGZ-05A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 1820,
+        "threshold2Value": 8,
+        "resourcePoolAlias": "广州可信6",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-06A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 1658,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "广州可信7",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-07A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 167,
+        "threshold2Value": 6,
+        "resourcePoolAlias": "广州可信8",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-08A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 719,
+        "threshold2Value": 4,
+        "resourcePoolAlias": "广州可信9",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-09A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 216,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "广州可信11",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-11A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 216,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "广州可信11",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNGZ-11A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 224,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "湛江DMZ",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNZJI-00A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 830,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "湛江可信1",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNZJI-01A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 49,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "湛江可信2",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNZJI-02A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 1160,
+        "threshold2Value": 1,
+        "resourcePoolAlias": "湛江可信3",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNZJI-03A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 0,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "湛江可信4",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNZJI-04A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 63,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "湛江可信5Value",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNZJI-05A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 0,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "湛江可信6",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNZJI-06A",
+        "threshold4Value": 0
+      },
+      {
+        "threshold0Value": 2000,
+        "threshold1Value": 149,
+        "threshold2Value": 0,
+        "resourcePoolAlias": "湛江可信7",
+        "threshold3Value": 0,
+        "resourcePoolName": "NFV-RP-HNZJI-07A",
+        "threshold4Value": 0
+      }
+    ],
+    "threshold1": "<30°C",
+    "threshold2": "30°C ~ 40°C"
+  }
+}
